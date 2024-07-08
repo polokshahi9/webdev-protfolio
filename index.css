@@ -158,8 +158,40 @@
     margin-top: 50px;
     
   }
-  
- 
+  footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+  }
+
+  .footer-column{
+    width: 50%;
+  }
+
+  footer input[type="text"]{
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 24px;
+    
+  }
+  textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 10px;
+  }
+
   
  
  
